@@ -1285,6 +1285,7 @@ section,
 .team .team-member .member-img {
   border-radius: 8px;
   overflow: hidden;
+  height: 350px;
 }
 
 .team .team-member .social {
